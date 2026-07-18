@@ -1,1 +1,1 @@
-Klashi for the climate
+Kalshi for the climate
