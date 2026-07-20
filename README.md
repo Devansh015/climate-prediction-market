@@ -1,12 +1,12 @@
 # Clyma - Hackthe6ix 2026 Winner
 
-TerraForm is an experimental climate-risk prediction market interface for
+Clyma is an experimental climate-risk prediction market interface for
 Solana Devnet. It combines an interactive geographic atlas with a pooled binary
 market program: users explore fictional climate scenarios on a rotating globe,
 inspect the evidence and resolution rules, connect a Phantom-compatible wallet,
 and submit YES or NO positions in Devnet SOL.
 
-> **Prototype only.** TerraForm is not a production financial service. The
+> **Prototype only.** Clyma is not a production financial service. The
 > market catalogue, probability history, evidence summaries, activity, and
 > liquidity shown in the interface are explicitly labelled fictional sample
 > data. Devnet SOL has no intended monetary value.
