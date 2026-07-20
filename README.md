@@ -1,4 +1,4 @@
-# TerraForm
+# Clyma - Hackthe6ix 2026 Winner
 
 TerraForm is an experimental climate-risk prediction market interface for
 Solana Devnet. It combines an interactive geographic atlas with a pooled binary
